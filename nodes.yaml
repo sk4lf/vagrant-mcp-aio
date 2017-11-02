@@ -1,0 +1,10 @@
+---
+- name: "mcpaio"
+  ip: "10.20.0.20"
+  box: "ubuntu/xenial64"
+  bootstrap: "mcpaio.sh"
+
+  #- name: "mcpaio2"
+# ip: "10.20.0.21"
+# box: "ubuntu/xenial64"
+# bootstrap: "mcpaio.sh"
